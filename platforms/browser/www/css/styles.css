@@ -1,0 +1,152 @@
+* {
+    color: #fff;
+}
+
+#container{
+    background: url("../media/background2.png") no-repeat;
+}
+
+#container2{
+    background: url("../media/background.jpg") no-repeat;
+}
+
+#container3{
+    background: url("../media/background2.png") no-repeat;
+}
+
+#container4{
+    background: url("../media/background.jpg") no-repeat;
+}
+
+#main-header {
+    font-size: 60px;
+}
+
+#secondary-header {
+    font-size: 30px;
+}
+#bbfit{
+
+    height: 400px;
+    width: 450px;
+    position: relative;
+    z-index: 2;
+    margin-top: 160px;
+
+}
+img{
+    height: 560px;
+    width: 400px;
+    position: relative;
+    z-index: 2;
+}
+
+.padded{
+    padding: 40px 20px 20px 20px;
+}
+
+.swiper-container{
+    height: 768px;
+    width: 1024px;
+}
+
+html, body {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    background: #eee;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color:#000;
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-1 {
+  width: 8.33%;
+}
+
+.col-2 {
+  width: 16.66%;
+}
+
+.col-3 {
+  width: 25%;
+}
+
+.col-4 {
+  width: 33.33%;
+}
+
+.col-5 {
+  width: 41.66%;
+}
+
+.col-6 {
+  width: 50%;
+}
+
+.col-7 {
+  width: 58.33%;
+}
+
+.col-8 {
+  width: 66.66%;
+}
+
+.col-9 {
+  width: 75%;
+}
+
+.col-10 {
+  width: 83.33%;
+}
+
+.col-11 {
+  width: 91.66%;
+}
+
+.col-12 {
+  width: 100%;
+}
+
+#footer{
+    background-image: url("../media/woodgrain.jpg");
+    height: 275px;
+    background-repeat: no-repeat;
+    bottom: 110px;
+    position: relative;
+}
+
+#footer2{
+    background-image: url("../media/linoleum1.jpg");
+    height: 240px;
+    background-repeat: no-repeat;
+    bottom: 110px;
+    position: relative;
+}
+
+#footer3{
+    background-image: url("../media/woodgrain.jpg");
+    height: 240px;
+    background-repeat: no-repeat;
+    bottom: 110px;
+    position: relative;
+}
+
+#footer4{
+    background-image: url("../media/linoleum1.jpg");
+    height: 240px;
+    background-repeat: no-repeat;
+    bottom: 110px;
+    position: relative;
+}
+
